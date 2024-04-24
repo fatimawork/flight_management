@@ -53,8 +53,9 @@ Contributions are what make the open source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-Project Link: [https://github.com/yourusername/marocvoyage](https://github.com/yourusername/marocvoyage)
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - latifam.dev@gmail.com
+
+Project Link: [https://github.com/yourusername/marocvoyage](https://github.com/LATIFADEV/Simplon-React/edit/master/Brief-1_Gestion-du-Vol/))
 
 ## Acknowledgements
 - Icons and graphics used from [FontAwesome](https://fontawesome.com)
